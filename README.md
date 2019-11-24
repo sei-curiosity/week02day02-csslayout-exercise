@@ -1,9 +1,5 @@
-# 40 Layout Exercises
-[![GitHub license](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/char1eschen/40-Layout-Exercises/blob/master/LICENSE.md)
-
 ## Intro:
 
-This layout exercise is created by [@byr-gdp](https://github.com/byr-gdp/40LayoutExercise) , this is an English vrsion translated by me.
 
 All exercises based on the following HTML structure (do not change the HTML structure, or it will lose the meaning of practice), all you need to do is to add css code in *layout* area to change the layout of the page. 
 
@@ -74,7 +70,7 @@ Guide:
 
 Example:
 
-![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_1.html.png)
+![image](/images/40LayoutExercise-master_exrcise_1.html.png)
 
 
 ### 2. Three percentage columns(n.2)
@@ -85,7 +81,7 @@ Guide:
 
 Example:
 
-![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_2.html.png)
+![image](/images/40LayoutExercise-master_exrcise_2.html.png)
 
 
 ### 3.Three percentage columns(n.3)
@@ -99,7 +95,7 @@ Guide:
 
 Example:
 
-![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_3.html.png)
+![image](/images/40LayoutExercise-master_exrcise_3.html.png)
 
 
 ### 4. Three percentage columns(n.4)
@@ -110,5 +106,5 @@ Guide:
 
 Example:
 
-![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_4.html.png)
+![image](/images/40LayoutExercise-master_exrcise_4.html.png)
 
