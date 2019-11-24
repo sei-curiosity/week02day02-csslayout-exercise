@@ -143,4 +143,4 @@ Using the following HTML code and by making use of Flex boxes in your newly crea
 ```
 Example:
 
-![image](/images/flex.png)
+![image](/images/flex.html.png)
