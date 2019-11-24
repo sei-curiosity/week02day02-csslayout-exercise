@@ -110,3 +110,37 @@ Example:
 
 ![image](/images/40LayoutExercise-master_exrcise_4.html.png)
 
+
+### Flexbox
+
+Exercise Guide:
+
+Using the following HTML code and by making use of Flex boxes in your newly created CSS to give the following design to the contents of the HTML.
+
+```
+<div class="Instructors">
+ <div>
+   <h1>Instructor 1</h1>
+   <h3>Ahmed</h3>
+   <p>SEI-9 Lead</p>
+ </div>
+ <div>
+   <h1>Instructor 2</h1>
+   <h3>Maha</h3>
+   <p>SEI-9 Lead</p>
+ </div>
+ <div>
+   <h1>Instructor 3</h1>
+   <h3>Sami</h3>
+   <p>SEI-9 IA</p>
+ </div> 
+  <div>
+   <h1>Instructor 4</h1>
+   <h3>Salman</h3>
+   <p>SEI-9 IA</p>
+ </div> 
+</div>
+```
+Example:
+
+![image](/images/flex.png)
